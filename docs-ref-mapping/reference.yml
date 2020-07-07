@@ -459,6 +459,14 @@
       children:
       - azure-arm-devtestlabs
       - '@azure/arm-devtestlabs'
+  - name: Digital Twins
+    uid: azure.nodejs.sdk.landingpage.services.digitaltwins
+    items:
+    - name: Management
+      uid: azure.nodejs.sdk.landingPage.services.digitaltwins.Management
+      landingPageType: Service
+      children:
+      - '@azure/arm-digitaltwins'
   - name: DNS
     uid: azure.nodejs.sdk.landingpage.services.dns
     href: ~/docs-ref-services/dns.md
